@@ -61,11 +61,6 @@ To solve double booking, use multiple layers of protection:
 
 After user clicks **Submit**, disable the button immediately.
 
-## Example
-
-```javascript
-button.disabled = true;
----
 
 # 2. Idempotent APIs
 
